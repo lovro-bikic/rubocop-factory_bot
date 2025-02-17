@@ -3,6 +3,7 @@
 ## Master (Unreleased)
 
 - Fix a false positive for `FactoryBot/ConsistentParenthesesStyle` when using traits and omitting hash values. ([@thejonroberts])
+- Fix a false negative for `FactoryBot/SyntaxMethods` when method is used inside a module. ([@lovro-bikic])
 
 ## 2.26.1 (2024-06-12)
 
